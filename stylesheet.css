@@ -4,3 +4,24 @@ h1 {
 	color: lightgreen;
 	background-color: darkblue;
 }
+
+div.row {
+	text-align: center;
+}
+
+div.form {
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+
+}
+
+div.send {
+	text-align: center;
+}
+
+div.send-button {
+	margin-left: auto;
+	margin-right: auto;
+}
